@@ -29,6 +29,6 @@ Screenshots (minsal) tiene screenshots o capturas de pantalla a los reportes dad
 ### gif
 gif contiene las imágenes y el gif que utilicé para hacer mostrar la prevalencia cada 100.000 habitantes, este gif parte el 2020-03-09 hasta la fecha.
 
-![](gif/Prevalencia_2020-03-29.gif)
+![](gif/Prevalencia_2020-03-30.gif)
 
 #### Nota: Este repositorio se actualizará todos los días entre las 12 y 14 del día, obviamente esto puede variar si el Ministerio de Salud se demora en entregar las cifras.
