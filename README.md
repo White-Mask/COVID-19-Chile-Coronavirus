@@ -6,7 +6,6 @@
 * Map
 * Notebook
 * Screenshots (minsal)
-* gif
 
 ### Database (CSV)
 Database (CSV) contiene los archivos CSV con los datos oficiales de la pagina del [Ministerio de Salud de Chile](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) desde el 2020-03-09 hasta la fecha.
@@ -18,17 +17,12 @@ En Database encontraras 2 tipos de formato.
 Get data es un Jupyter Notebook en python que se encargar de obtener los datos de la página oficial del Ministerio de Salud, luego crea un archivo .csv con el primer formato (este documento se crea diariamente) y luego se encarga de actualizar diariamente el archivo "Resumen_COVID-19_Chile_.csv" con el segundo formato.
 
 ### Map
-Map contiene un archivo .Geojson con el mapa de chile con sus 16 regiones, el cual utilizamos para mostrar los casos totales por región a la fecha y la prevalencia cada 100.000 habitantes a la fecha.
+Map contiene un archivo .Geojson con el mapa de chile con sus 16 regiones, el cual utilizamos para mostrar los casos totales por región a la fecha, la prevalencia y la incidencia cada 100.000 habitantes a la fecha.
 
 ### Notebook
-Notebook tiene un Jupyter Notebook en python en el cual hacemos un pequeño "análisis" (gráficos) y intentamos hacer predicciones con una regresión polinomial.
+Notebook tiene un Jupyter Notebook en python en el cual hacemos un pequeño "análisis" (gráficos).
 
 ### Screenshots (minsal)
 Screenshots (minsal) tiene screenshots o capturas de pantalla a los reportes dados por el Ministerio de Salud (las tablas que publican diariamente), he recopilado los reportes desde el 2020-03-09 hasta la fecha.
-
-### gif
-gif contiene las imágenes y el gif que utilicé para hacer mostrar la prevalencia cada 100.000 habitantes, este gif parte el 2020-03-09 hasta la fecha.
-
-![](gif/Prevalencia_.gif)
 
 #### Nota: Este repositorio se actualizará todos los días entre las 12 y 14 del día, obviamente esto puede variar si el Ministerio de Salud se demora en entregar las cifras.
