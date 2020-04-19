@@ -8,10 +8,11 @@
 * Screenshots (minsal)
 
 ### Database (CSV)
-Database (CSV) contiene los archivos CSV con los datos oficiales de la pagina del [Ministerio de Salud de Chile](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) desde el 2020-03-09 hasta la fecha.
-En Database encontraras 2 tipos de formato.
-* Primer formato: En este se almacenan los datos de la primera tabla de la página del Ministerio de Salud (Región, Casos nuevos	, Casos totales, % Casos totales, Fallecidos).
-* Segundo formato: En este se almacenan la suma de las columnas anteriores y los casos de recuperados (Casos recuperados a nivel nacional, Casos nuevos, Casos totales, Fallecidos, Fecha).
+Database (CSV) contiene los archivos CSV con los datos oficiales de la pagina del [Ministerio de Salud de Chile](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) desde el 2020-03-03 hasta la fecha.
+En Database encontraras 3 tipos de formato.
+* Primer formato: El primer formato se encuentra en la carpeta “Dataset diarios”, en este se almacenan los datos de la primera tabla de la página del Ministerio de Salud (Región, Casos nuevos	, Casos totales, % Casos totales, Fallecidos).
+* Segundo formato: En este se almacenan la suma de los Casos nuevos, Casos totales, Fallecidos, los casos de recuperados (Casos recuperados a nivel nacional) y la Fecha.
+* Tercer formato: En este se almacena los casos totales por región y fecha. 
 
 ### Get data
 Get data es un Jupyter Notebook en python que se encargar de obtener los datos de la página oficial del Ministerio de Salud, luego crea un archivo .csv con el primer formato (este documento se crea diariamente) y luego se encarga de actualizar diariamente el archivo "Resumen_COVID-19_Chile_.csv" con el segundo formato.
