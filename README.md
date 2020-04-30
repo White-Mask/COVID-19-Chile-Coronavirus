@@ -1,14 +1,17 @@
 # COVID-19 Chile Coronavirus
 (Todos los cálculos y gráficos fueron hechos con los datos oficiales del Ministerio de Salud de Chile).
 ## Este repositorio contiene:
-* Database (CSV)
+* Database
 * Get data
 * Map
 * Notebook
 * Screenshots (minsal)
 
-### Database (CSV)
-Database (CSV) contiene los archivos CSV con los datos oficiales de la pagina del [Ministerio de Salud de Chile](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) desde el 2020-03-03 hasta la fecha.
+### Database
+* csv
+* xlsx
+
+Las carpetas contienen los mismos archivos, pero con su formato correspondiente (csv, xlsx). Las tablas fueron creadas con los datos oficiales de la página del [Ministerio de Salud de Chile](https://www.minsal.cl/nuevo-coronavirus-2019-ncov/casos-confirmados-en-chile-covid-19/) desde el 2020-03-03 hasta la fecha.
 En Database encontraras 3 tipos de formato.
 * Primer formato: El primer formato se encuentra en la carpeta “Dataset diarios”, en este se almacenan los datos de la primera tabla de la página del Ministerio de Salud (Región, Casos nuevos	, Casos totales, % Casos totales, Fallecidos).
 * Segundo formato: En este se almacenan la suma de los Casos nuevos, Casos totales, Fallecidos, los casos de recuperados (Casos recuperados a nivel nacional) y la Fecha.
