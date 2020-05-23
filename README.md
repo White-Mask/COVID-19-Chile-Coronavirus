@@ -1,13 +1,13 @@
 # COVID-19 Chile Coronavirus
 (Todos los cálculos y gráficos fueron hechos con los datos oficiales del Ministerio de Salud de Chile).
 ## Este repositorio contiene:
-* Database
+* Database Notebook
 * Get data
 * Map
 * Notebook
 * Screenshots (minsal)
 
-### Database
+### Database Notebook
 * csv
 * xlsx
 
