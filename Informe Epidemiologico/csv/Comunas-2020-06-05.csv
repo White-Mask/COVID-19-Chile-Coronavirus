@@ -1,0 +1,347 @@
+Región,ID_Región,Comuna,Población,Número de Casos Confirmados,Tasa incidencia acumulada,Número de Casos Actuales,Tasa de Incidencia Actual,Número de Casos Activos,Tasa de Incidencia Activos,Confirmados/100kHab
+Arica y Parinacota,15,Arica,247552,806,325.6,248,100.2,248,100.2,326
+Arica y Parinacota,15,Camarones,1233,0,0,0,0,0,0,0
+Arica y Parinacota,15,General Lagos,810,0,0,0,0,0,0,0
+Arica y Parinacota,15,Putre,2515,0,0,0,0,0,0,0
+Tarapacá,1,Alto Hospicio,129999,1062,816.9,266,204.6,265,203.8,817
+Tarapacá,1,Camiña,1375,8,581.8,7,509.1,7,509.1,582
+Tarapacá,1,Colchane,1583,4,252.7,3,189.5,3,189.5,253
+Tarapacá,1,Huara,3000,33,1100,6,200,6,200,1.100
+Tarapacá,1,Iquique,223463,1700,760.8,513,229.6,509,227.8,761
+Tarapacá,1,Pica,5958,57,956.7,15,251.8,15,251.8,957
+Tarapacá,1,Pozo Almonte,17395,91,523.1,44,252.9,44,252.9,523
+Antofagasta,2,Antofagasta,425725,1710,401.7,253,59.4,251,59,402
+Antofagasta,2,Calama,190336,626,328.9,74,38.9,73,38.4,329
+Antofagasta,2,María Elena,6814,160,2348.1,5,73.4,5,73.4,2.348
+Antofagasta,2,Mejillones,14776,273,1847.6,15,101.5,14,94.7,1.848
+Antofagasta,2,Ollagüe,287,0,0,0,0,0,0,0
+Antofagasta,2,San Pedro de Atacama,10434,9,86.3,1,9.6,1,9.6,86
+Antofagasta,2,Sierra Gorda,1746,16,916.4,0,0,0,0,916
+Antofagasta,2,Taltal,13657,37,270.9,8,58.6,8,58.6,271
+Antofagasta,2,Tocopilla,28079,35,124.6,3,10.7,3,10.7,125
+Atacama,3,Alto del Carmen,5729,1,17.5,1,17.5,1,17.5,17
+Atacama,3,Caldera,19426,9,46.3,4,20.6,4,20.6,46
+Atacama,3,Chañaral,13164,1,7.6,1,7.6,1,7.6,8
+Atacama,3,Copiapó,171766,160,93.1,55,32,55,32,93
+Atacama,3,Diego de Almagro,14358,13,90.5,4,27.9,4,27.9,91
+Atacama,3,Freirina,7681,1,13,0,0,0,0,13
+Atacama,3,Huasco,11264,2,17.8,1,8.9,1,8.9,18
+Atacama,3,Tierra Amarilla,14312,25,174.7,2,14,2,14,175
+Atacama,3,Vallenar,57009,65,114,16,28.1,16,28.1,114
+Coquimbo,4,Andacollo,11791,17,144.2,4,33.9,3,25.4,144
+Coquimbo,4,Canela,9546,3,31.4,0,0,0,0,31
+Coquimbo,4,Combarbalá,13884,14,100.8,3,21.6,3,21.6,101
+Coquimbo,4,Coquimbo,256735,281,109.5,55,21.4,55,21.4,109
+Coquimbo,4,Illapel,32801,31,94.5,8,24.4,8,24.4,95
+Coquimbo,4,La Higuera,4450,2,44.9,2,44.9,2,44.9,45
+Coquimbo,4,La Serena,249656,205,82.1,44,17.6,44,17.6,82
+Coquimbo,4,Los Vilos,23374,6,25.7,1,4.3,1,4.3,26
+Coquimbo,4,Monte Patria,32527,55,169.1,17,52.3,17,52.3,169
+Coquimbo,4,Ovalle,121269,171,141,55,45.4,55,45.4,141
+Coquimbo,4,Paiguano,4675,3,64.2,3,64.2,3,64.2,64
+Coquimbo,4,Punitaqui,12165,17,139.7,5,41.1,5,41.1,140
+Coquimbo,4,Río Hurtado,4372,7,160.1,4,91.5,4,91.5,160
+Coquimbo,4,Salamanca,29110,22,75.6,7,24,7,24,76
+Coquimbo,4,Vicuña,29741,17,57.2,3,10.1,3,10.1,57
+Valparaíso,5,Algarrobo,15174,48,316.3,6,39.5,6,39.5,316
+Valparaíso,5,Cabildo,20663,24,116.1,5,24.2,5,24.2,116
+Valparaíso,5,Calera,53591,82,153,19,35.5,19,35.5,153
+Valparaíso,5,Calle Larga,16482,61,370.1,18,109.2,18,109.2,370
+Valparaíso,5,Cartagena,25357,54,213,11,43.4,11,43.4,213
+Valparaíso,5,Casablanca,29170,35,120,8,27.4,8,27.4,120
+Valparaíso,5,Catemu,15213,17,111.7,8,52.6,8,52.6,112
+Valparaíso,5,Concón,45889,72,156.9,12,26.2,12,26.2,157
+Valparaíso,5,El Quisco,17742,66,372,18,101.5,18,101.5,372
+Valparaíso,5,El Tabo,14338,61,425.4,20,139.5,20,139.5,425
+Valparaíso,5,Hijuelas,19099,29,151.8,13,68.1,13,68.1,152
+Valparaíso,5,Isla de Pascua,8277,5,60.4,0,0,0,0,60
+Valparaíso,5,Juan Fernández,1033,0,0,0,0,0,0,0
+Valparaíso,5,La Cruz,25321,33,130.3,5,19.7,5,19.7,130
+Valparaíso,5,La Ligua,37739,28,74.2,11,29.1,11,29.1,74
+Valparaíso,5,Limache,49931,125,250.3,29,58.1,29,58.1,250
+Valparaíso,5,Llaillay,26533,67,252.5,14,52.8,14,52.8,253
+Valparaíso,5,Los Andes,68093,194,284.9,55,80.8,55,80.8,285
+Valparaíso,5,Nogales,23490,21,89.4,8,34.1,8,34.1,89
+Valparaíso,5,Olmué,19266,24,124.6,4,20.8,4,20.8,125
+Valparaíso,5,Panquehue,7633,14,183.4,3,39.3,3,39.3,183
+Valparaíso,5,Papudo,6201,14,225.8,6,96.8,6,96.8,226
+Valparaíso,5,Petorca,10558,21,198.9,7,66.3,7,66.3,199
+Valparaíso,5,Puchuncaví,20071,18,89.7,6,29.9,6,29.9,90
+Valparaíso,5,Putaendo,17645,34,192.7,8,45.3,8,45.3,193
+Valparaíso,5,Quillota,97572,107,109.7,20,20.5,20,20.5,110
+Valparaíso,5,Quilpué,167085,285,170.6,61,36.5,61,36.5,171
+Valparaíso,5,Quintero,36135,97,268.4,22,60.9,20,55.3,268
+Valparaíso,5,Rinconada,11263,48,426.2,20,177.6,20,177.6,426
+Valparaíso,5,San Antonio,96761,472,487.8,100,103.3,100,103.3,488
+Valparaíso,5,San Esteban,20643,29,140.5,11,53.3,11,53.3,140
+Valparaíso,5,San Felipe,83494,187,224,68,81.4,64,76.7,224
+Valparaíso,5,Santa María,16367,33,201.6,4,24.4,4,24.4,202
+Valparaíso,5,Santo Domingo,11934,50,419,6,50.3,6,50.3,419
+Valparaíso,5,Valparaíso,315732,765,242.3,219,69.4,218,69,242
+Valparaíso,5,Villa Alemana,139310,233,167.3,74,53.1,74,53.1,167
+Valparaíso,5,Viña del Mar,361371,861,238.3,220,60.9,218,60.3,238
+Valparaíso,5,Zapallar,7994,3,37.5,0,0,0,0,38
+Metropolitana,RM,Alhué,7405,7,94.5,0,0,0,0,95
+Metropolitana,RM,Buin,109641,692,631.2,107,97.6,106,96.7,631
+Metropolitana,RM,Calera de Tango,28525,109,382.1,24,84.1,24,84.1,382
+Metropolitana,RM,Cerrillos,88956,1123,1262.4,140,157.4,139,156.3,1.262
+Metropolitana,RM,Cerro Navia,142465,1892,1328,257,180.4,257,180.4,1.328
+Metropolitana,RM,Colina,180353,1742,965.9,399,221.2,397,220.1,966
+Metropolitana,RM,Conchalí,139195,2330,1673.9,341,245,337,242.1,1.674
+Metropolitana,RM,Curacaví,36430,335,919.6,130,356.8,130,356.8,920
+Metropolitana,RM,El Bosque,172000,2027,1178.5,397,230.8,396,230.2,1.178
+Metropolitana,RM,El Monte,40014,215,537.3,35,87.5,35,87.5,537
+Metropolitana,RM,Estación Central,206792,2617,1265.5,432,208.9,428,207,1.266
+Metropolitana,RM,Huechuraba,112528,1452,1290.3,179,159.1,179,159.1,1.290
+Metropolitana,RM,Independencia,142065,3359,2364.4,490,344.9,486,342.1,2.364
+Metropolitana,RM,Isla de Maipo,40171,108,268.9,19,47.3,18,44.8,269
+Metropolitana,RM,La Cisterna,100434,1185,1179.9,253,251.9,251,249.9,1.180
+Metropolitana,RM,La Florida,402433,5237,1301.3,937,232.8,931,231.3,1.301
+Metropolitana,RM,La Granja,122557,2820,2301,404,329.6,400,326.4,2.301
+Metropolitana,RM,La Pintana,189335,3339,1763.5,637,336.4,632,333.8,1.764
+Metropolitana,RM,La Reina,100252,864,861.8,154,153.6,152,151.6,862
+Metropolitana,RM,Lampa,126898,1108,873.1,154,121.4,154,121.4,873
+Metropolitana,RM,Las Condes,330759,2747,830.5,554,167.5,551,166.6,831
+Metropolitana,RM,Lo Barnechea,124076,1366,1100.9,206,166,206,166,1.101
+Metropolitana,RM,Lo Espejo,103865,1491,1435.5,260,250.3,253,243.6,1.436
+Metropolitana,RM,Lo Prado,104403,1347,1290.2,164,157.1,159,152.3,1.290
+Metropolitana,RM,Macul,134635,1909,1417.9,299,222.1,296,219.9,1.418
+Metropolitana,RM,Maipú,578605,4499,777.6,870,150.4,868,150,778
+Metropolitana,RM,María Pinto,14926,69,462.3,12,80.4,12,80.4,462
+Metropolitana,RM,Melipilla,141612,887,626.4,308,217.5,305,215.4,626
+Metropolitana,RM,Ñuñoa,250192,2250,899.3,466,186.3,459,183.5,899
+Metropolitana,RM,Padre Hurtado,74188,484,652.4,70,94.4,70,94.4,652
+Metropolitana,RM,Paine,82766,347,419.3,70,84.6,70,84.6,419
+Metropolitana,RM,Pedro Aguirre Cerda,107803,1441,1336.7,158,146.6,152,141,1.337
+Metropolitana,RM,Peñaflor,101058,574,568,101,99.9,99,98,568
+Metropolitana,RM,Peñalolén,266798,4899,1836.2,1004,376.3,999,374.4,1.836
+Metropolitana,RM,Pirque,30433,324,1064.6,70,230,70,230,1.065
+Metropolitana,RM,Providencia,157749,1403,889.4,335,212.4,329,208.6,889
+Metropolitana,RM,Pudahuel,253139,2831,1118.4,396,156.4,391,154.5,1.118
+Metropolitana,RM,Puente Alto,645909,7939,1229.1,1336,206.8,1331,206.1,1.229
+Metropolitana,RM,Quilicura,254694,3546,1392.3,516,202.6,515,202.2,1.392
+Metropolitana,RM,Quinta Normal,136368,1897,1391.1,219,160.6,214,156.9,1.391
+Metropolitana,RM,Recoleta,190075,4040,2125.5,460,242,457,240.4,2.125
+Metropolitana,RM,Renca,160847,2180,1355.3,297,184.6,296,184,1.355
+Metropolitana,RM,San Bernardo,334836,3408,1017.8,558,166.6,550,164.3,1.018
+Metropolitana,RM,San Joaquín,103485,2068,1998.4,280,270.6,278,268.6,1.998
+Metropolitana,RM,San José de Maipo,18644,232,1244.4,45,241.4,44,236,1.244
+Metropolitana,RM,San Miguel,133059,1988,1494.1,354,266,350,263,1.494
+Metropolitana,RM,San Pedro,11953,44,368.1,2,16.7,2,16.7,368
+Metropolitana,RM,San Ramón,86510,1841,2128.1,190,219.6,188,217.3,2.128
+Metropolitana,RM,Santiago,503147,7089,1408.9,998,198.4,988,196.4,1.409
+Metropolitana,RM,Talagante,81838,343,419.1,66,80.6,65,79.4,419
+Metropolitana,RM,Tiltil,21477,134,623.9,24,111.7,23,107.1,624
+Metropolitana,RM,Vitacura,96774,780,806,130,134.3,129,133.3,806
+O’Higgins,6,Chépica,15925,6,37.7,1,6.3,1,6.3,38
+O’Higgins,6,Chimbarongo,37696,23,61,3,8,3,8,61
+O’Higgins,6,Codegua,14096,11,78,5,35.5,5,35.5,78
+O’Higgins,6,Coinco,7831,17,217.1,2,25.5,2,25.5,217
+O’Higgins,6,Coltauco,21263,28,131.7,1,4.7,1,4.7,132
+O’Higgins,6,Doñihue,22700,35,154.2,2,8.8,2,8.8,154
+O’Higgins,6,Graneros,36504,47,128.8,3,8.2,3,8.2,129
+O’Higgins,6,La Estrella,3114,1,32.1,1,32.1,1,32.1,32
+O’Higgins,6,Las Cabras,26749,20,74.8,3,11.2,3,11.2,75
+O’Higgins,6,Litueche,6765,13,192.2,2,29.6,2,29.6,192
+O’Higgins,6,Lolol,7289,10,137.2,7,96,7,96,137
+O’Higgins,6,Machalí,59913,66,110.2,19,31.7,19,31.7,110
+O’Higgins,6,Malloa,14163,4,28.2,1,7.1,0,0,28
+O’Higgins,6,Marchihue,7632,1,13.1,0,0,0,0,13
+O’Higgins,6,Mostazal,27462,20,72.8,6,21.8,6,21.8,73
+O’Higgins,6,Nancagua,19141,16,83.6,4,20.9,4,20.9,84
+O’Higgins,6,Navidad,6904,13,188.3,1,14.5,1,14.5,188
+O’Higgins,6,Olivar,14624,25,171,3,20.5,3,20.5,171
+O’Higgins,6,Palmilla,13299,4,30.1,1,7.5,1,7.5,30
+O’Higgins,6,Paredones,6349,2,31.5,0,0,0,0,32
+O’Higgins,6,Peralillo,11848,6,50.6,2,16.9,2,16.9,51
+O’Higgins,6,Peumo,14952,7,46.8,0,0,0,0,47
+O’Higgins,6,Pichidegua,20743,12,57.9,0,0,0,0,58
+O’Higgins,6,Pichilemu,17882,11,61.5,3,16.8,3,16.8,62
+O’Higgins,6,Placilla,9164,8,87.3,2,21.8,2,21.8,87
+O’Higgins,6,Pumanque,3531,1,28.3,1,28.3,1,28.3,28
+O’Higgins,6,Quinta de Tilcoco,13877,4,28.8,2,14.4,2,14.4,29
+O’Higgins,6,Rancagua,265211,442,166.7,87,32.8,87,32.8,167
+O’Higgins,6,Rengo,63710,47,73.8,5,7.8,5,7.8,74
+O’Higgins,6,Requínoa,30371,31,102.1,14,46.1,14,46.1,102
+O’Higgins,6,San Fernando,78642,46,58.5,21,26.7,21,26.7,58
+O’Higgins,6,San Vicente,50617,51,100.8,1,2,1,2,101
+O’Higgins,6,Santa Cruz,41096,19,46.2,6,14.6,6,14.6,46
+Maule,7,Cauquenes,44143,91,206.1,54,122.3,54,122.3,206
+Maule,7,Chanco,9331,4,42.9,1,10.7,1,10.7,43
+Maule,7,Colbún,22565,42,186.1,15,66.5,15,66.5,186
+Maule,7,Constitución,50348,39,77.5,7,13.9,6,11.9,77
+Maule,7,Curepto,9426,13,137.9,1,10.6,1,10.6,138
+Maule,7,Curicó,163626,429,262.2,216,132,214,130.8,262
+Maule,7,Empedrado,4206,0,0,0,0,0,0,0
+Maule,7,Hualañé,10222,46,450,38,371.7,38,371.7,450
+Maule,7,Licantén,6989,2,28.6,0,0,0,0,29
+Maule,7,Linares,101073,103,101.9,31,30.7,31,30.7,102
+Maule,7,Longaví,32810,44,134.1,20,61,20,61,134
+Maule,7,Maule,60000,78,130,29,48.3,29,48.3,130
+Maule,7,Molina,49800,33,66.3,13,26.1,13,26.1,66
+Maule,7,Parral,44544,96,215.5,46,103.3,46,103.3,216
+Maule,7,Pelarco,9083,23,253.2,3,33,3,33,253
+Maule,7,Pelluhue,8092,12,148.3,2,24.7,2,24.7,148
+Maule,7,Pencahue,8601,14,162.8,6,69.8,6,69.8,163
+Maule,7,Rauco,11248,17,151.1,6,53.3,6,53.3,151
+Maule,7,Retiro,21071,49,232.5,36,170.9,36,170.9,233
+Maule,7,Río Claro,14753,19,128.8,6,40.7,5,33.9,129
+Maule,7,Romeral,16170,44,272.1,19,117.5,19,117.5,272
+Maule,7,Sagrada Familia,19469,10,51.4,5,25.7,5,25.7,51
+Maule,7,San Clemente,46292,78,168.5,28,60.5,28,60.5,168
+Maule,7,San Javier,49451,66,133.5,17,34.4,17,34.4,133
+Maule,7,San Rafael,9959,55,552.3,12,120.5,12,120.5,552
+Maule,7,Talca,236724,392,165.6,95,40.1,95,40.1,166
+Maule,7,Teno,30850,15,48.6,3,9.7,3,9.7,49
+Maule,7,Vichuquén,4381,0,0,0,0,0,0,0
+Maule,7,Villa Alegre,17512,12,68.5,7,40,7,40,69
+Maule,7,Yerbas Buenas,19200,46,239.6,21,109.4,20,104.2,240
+Ñuble,16,Bulnes,22607,189,836,22,97.3,22,97.3,836
+Ñuble,16,Chillán,198624,648,326.2,90,45.3,90,45.3,326
+Ñuble,16,Chillán Viejo,33827,107,316.3,13,38.4,13,38.4,316
+Ñuble,16,Cobquecura,5275,0,0,0,0,0,0,0
+Ñuble,16,Coelemu,16845,25,148.4,15,89,15,89,148
+Ñuble,16,Coihueco,28375,53,186.8,1,3.5,1,3.5,187
+Ñuble,16,El Carmen,12334,25,202.7,17,137.8,17,137.8,203
+Ñuble,16,Ninhue,5414,12,221.6,5,92.4,4,73.9,222
+Ñuble,16,Ñiquén,11567,20,172.9,8,69.2,8,69.2,173
+Ñuble,16,Pemuco,8639,15,173.6,5,57.9,5,57.9,174
+Ñuble,16,Pinto,11880,15,126.3,0,0,0,0,126
+Ñuble,16,Portezuelo,4940,7,141.7,0,0,0,0,142
+Ñuble,16,Quillón,18777,67,356.8,23,122.5,22,117.2,357
+Ñuble,16,Quirihue,12192,21,172.2,4,32.8,4,32.8,172
+Ñuble,16,Ranquil,6261,10,159.7,0,0,0,0,160
+Ñuble,16,San Carlos,56252,91,161.8,28,49.8,28,49.8,162
+Ñuble,16,San Fabián,4654,8,171.9,0,0,0,0,172
+Ñuble,16,San Ignacio,16624,30,180.5,13,78.2,13,78.2,180
+Ñuble,16,San Nicolás,12172,33,271.1,7,57.5,7,57.5,271
+Ñuble,16,Treguaco,5696,1,17.6,0,0,0,0,18
+Ñuble,16,Yungay,18596,63,338.8,4,21.5,4,21.5,339
+Biobío,8,Alto Biobío,6775,98,1446.5,66,974.2,66,974.2,1.446
+Biobío,8,Antuco,4306,18,418,13,301.9,13,301.9,418
+Biobío,8,Arauco,38679,68,175.8,26,67.2,26,67.2,176
+Biobío,8,Cabrero,30725,30,97.6,4,13,4,13,98
+Biobío,8,Cañete,37003,15,40.5,5,13.5,5,13.5,41
+Biobío,8,Chiguayante,91180,119,130.5,26,28.5,26,28.5,131
+Biobío,8,Concepción,238092,355,149.1,106,44.5,105,44.1,149
+Biobío,8,Contulmo,6330,1,15.8,1,15.8,1,15.8,16
+Biobío,8,Coronel,125829,196,155.8,115,91.4,114,90.6,156
+Biobío,8,Curanilahue,33892,8,23.6,3,8.9,3,8.9,24
+Biobío,8,Florida,11841,5,42.2,1,8.4,1,8.4,42
+Biobío,8,Hualpén,97273,175,179.9,26,26.7,26,26.7,180
+Biobío,8,Hualqui,26201,46,175.6,11,42,11,42,176
+Biobío,8,Laja,23873,67,280.7,11,46.1,11,46.1,281
+Biobío,8,Lebu,27100,3,11.1,1,3.7,1,3.7,11
+Biobío,8,Los Álamos,22524,3,13.3,1,4.4,1,4.4,13
+Biobío,8,Los Ángeles,218515,295,135,99,45.3,99,45.3,135
+Biobío,8,Lota,45750,61,133.3,25,54.6,25,54.6,133
+Biobío,8,Mulchén,31041,22,70.9,10,32.2,10,32.2,71
+Biobío,8,Nacimiento,27944,38,136,6,21.5,6,21.5,136
+Biobío,8,Negrete,10429,39,374,10,95.9,10,95.9,374
+Biobío,8,Penco,49865,45,90.2,17,34.1,17,34.1,90
+Biobío,8,Quilaco,4179,1,23.9,1,23.9,1,23.9,24
+Biobío,8,Quilleco,10032,3,29.9,2,19.9,2,19.9,30
+Biobío,8,San Pedro de la Paz,145906,216,148,58,39.8,58,39.8,148
+Biobío,8,San Rosendo,3611,3,83.1,1,27.7,1,27.7,83
+Biobío,8,Santa Bárbara,14592,40,274.1,18,123.4,18,123.4,274
+Biobío,8,Santa Juana,14779,4,27.1,2,13.5,2,13.5,27
+Biobío,8,Talcahuano,158345,244,154.1,67,42.3,67,42.3,154
+Biobío,8,Tirúa,11019,4,36.3,0,0,0,0,36
+Biobío,8,Tomé,58729,96,163.5,17,28.9,17,28.9,163
+Biobío,8,Tucapel,15205,24,157.8,17,111.8,17,111.8,158
+Biobío,8,Yumbel,22132,32,144.6,13,58.7,13,58.7,145
+Araucanía,9,Angol,56058,172,306.8,29,51.7,29,51.7,307
+Araucanía,9,Carahue,25486,63,247.2,14,54.9,14,54.9,247
+Araucanía,9,Cholchol,12341,16,129.6,10,81,10,81,130
+Araucanía,9,Collipulli,26148,30,114.7,7,26.8,7,26.8,115
+Araucanía,9,Cunco,18055,31,171.7,4,22.2,4,22.2,172
+Araucanía,9,Curacautín,18178,8,44,1,5.5,1,5.5,44
+Araucanía,9,Curarrehue,7802,4,51.3,0,0,0,0,51
+Araucanía,9,Ercilla,8458,16,189.2,4,47.3,4,47.3,189
+Araucanía,9,Freire,25446,73,286.9,25,98.2,25,98.2,287
+Araucanía,9,Galvarino,12633,47,372,40,316.6,40,316.6,372
+Araucanía,9,Gorbea,15148,20,132,1,6.6,1,6.6,132
+Araucanía,9,Lautaro,40746,89,218.4,22,54,22,54,218
+Araucanía,9,Loncoche,24739,46,185.9,20,80.8,20,80.8,186
+Araucanía,9,Lonquimay,11049,62,561.1,2,18.1,2,18.1,561
+Araucanía,9,Los Sauces,7517,4,53.2,3,39.9,3,39.9,53
+Araucanía,9,Lumaco,10050,14,139.3,5,49.8,5,49.8,139
+Araucanía,9,Melipeuco,6265,8,127.7,4,63.8,4,63.8,128
+Araucanía,9,Nueva Imperial,33777,56,165.8,2,5.9,2,5.9,166
+Araucanía,9,Padre Las Casas,82110,163,198.5,21,25.6,21,25.6,199
+Araucanía,9,Perquenco,7223,11,152.3,5,69.2,5,69.2,152
+Araucanía,9,Pitrufquén,26096,58,222.3,28,107.3,28,107.3,222
+Araucanía,9,Pucón,29782,50,167.9,22,73.9,22,73.9,168
+Araucanía,9,Purén,12188,9,73.8,2,16.4,2,16.4,74
+Araucanía,9,Renaico,10833,25,230.8,3,27.7,3,27.7,231
+Araucanía,9,Saavedra,12793,87,680.1,5,39.1,5,39.1,680
+Araucanía,9,Temuco,302931,838,276.6,23,7.6,23,7.6,277
+Araucanía,9,Teodoro Schmidt,15786,10,63.3,4,25.3,4,25.3,63
+Araucanía,9,Toltén,10055,16,159.1,3,29.8,3,29.8,159
+Araucanía,9,Traiguén,19314,15,77.7,4,20.7,4,20.7,78
+Araucanía,9,Victoria,35467,113,318.6,19,53.6,19,53.6,319
+Araucanía,9,Vilcún,30766,92,299,11,35.8,11,35.8,299
+Araucanía,9,Villarrica,59103,33,55.8,6,10.2,6,10.2,56
+Los Ríos,14,Corral,5447,13,238.7,0,0,0,0,239
+Los Ríos,14,Futrono,15261,40,262.1,11,72.1,11,72.1,262
+Los Ríos,14,La Unión,39538,48,121.4,5,12.6,5,12.6,121
+Los Ríos,14,Lago Ranco,10292,2,19.4,0,0,0,0,19
+Los Ríos,14,Lanco,17652,9,51,0,0,0,0,51
+Los Ríos,14,Los Lagos,20518,23,112.1,15,73.1,15,73.1,112
+Los Ríos,14,Máfil,7389,3,40.6,0,0,0,0,41
+Los Ríos,14,Mariquina,23250,16,68.8,2,8.6,2,8.6,69
+Los Ríos,14,Paillaco,20798,25,120.2,5,24,5,24,120
+Los Ríos,14,Panguipulli,35991,21,58.3,13,36.1,13,36.1,58
+Los Ríos,14,Río Bueno,32925,16,48.6,2,6.1,2,6.1,49
+Los Ríos,14,Valdivia,176774,182,103,23,13,23,13,103
+Los Lagos,10,Ancud,42458,85,200.2,2,4.7,2,4.7,200
+Los Lagos,10,Calbuco,36744,8,21.8,0,0,0,0,22
+Los Lagos,10,Castro,47607,8,16.8,0,0,0,0,17
+Los Lagos,10,Chaitén,5020,1,19.9,0,0,0,0,20
+Los Lagos,10,Chonchi,16013,0,0,0,0,0,0,0
+Los Lagos,10,Cochamó,4006,1,25,0,0,0,0,25
+Los Lagos,10,Curaco de Vélez,4066,0,0,0,0,0,0,0
+Los Lagos,10,Dalcahue,15069,6,39.8,0,0,0,0,40
+Los Lagos,10,Fresia,12656,0,0,0,0,0,0,0
+Los Lagos,10,Frutillar,20223,12,59.3,3,14.8,3,14.8,59
+Los Lagos,10,Futaleufú,2806,1,35.6,0,0,0,0,36
+Los Lagos,10,Hualaihué,9525,4,42,1,10.5,1,10.5,42
+Los Lagos,10,Llanquihue,18621,6,32.2,0,0,0,0,32
+Los Lagos,10,Los Muermos,17817,2,11.2,0,0,0,0,11
+Los Lagos,10,Maullín,14894,15,100.7,1,6.7,1,6.7,101
+Los Lagos,10,Osorno,173410,391,225.5,43,24.8,43,24.8,225
+Los Lagos,10,Palena,1827,0,0,0,0,0,0,0
+Los Lagos,10,Puerto Montt,269398,193,71.6,77,28.6,77,28.6,72
+Los Lagos,10,Puerto Octay,9192,5,54.4,0,0,0,0,54
+Los Lagos,10,Puerto Varas,48620,30,61.7,13,26.7,13,26.7,62
+Los Lagos,10,Puqueldón,4201,0,0,0,0,0,0,0
+Los Lagos,10,Purranque,21080,66,313.1,27,128.1,27,128.1,313
+Los Lagos,10,Puyehue,11787,11,93.3,1,8.5,1,8.5,93
+Los Lagos,10,Queilén,5543,0,0,0,0,0,0,0
+Los Lagos,10,Quellón,29309,1,3.4,0,0,0,0,3
+Los Lagos,10,Quemchi,8783,14,159.4,8,91.1,8,91.1,159
+Los Lagos,10,Quinchao,8298,1,12.1,0,0,0,0,12
+Los Lagos,10,Río Negro,14275,31,217.2,5,35,5,35,217
+Los Lagos,10,San Juan de la Costa,7639,34,445.1,0,0,0,0,445
+Los Lagos,10,San Pablo,10553,12,113.7,1,9.5,1,9.5,114
+Aysén,11,Aysén,25002,4,16,2,8,2,8,16
+Aysén,11,Chile Chico,5121,1,19.5,0,0,0,0,20
+Aysén,11,Cisnes,5828,0,0,0,0,0,0,0
+Aysén,11,Cochrane,3685,0,0,0,0,0,0,0
+Aysén,11,Coyhaique,61210,10,16.3,4,6.5,4,6.5,16
+Aysén,11,Guaitecas,1599,0,0,0,0,0,0,0
+Aysén,11,Lago Verde,920,0,0,0,0,0,0,0
+Aysén,11,O'Higgins,661,0,0,0,0,0,0,0
+Aysén,11,Río Ibáñez,2699,0,0,0,0,0,0,0
+Aysén,11,Tortel,572,0,0,0,0,0,0,0
+Magallanes,12,Antártica,137,0,0,0,0,0,0,0
+Magallanes,12,Cabo de Hornos,1983,21,1059,1,50.4,1,50.4,1.059
+Magallanes,12,Laguna Blanca,264,0,0,0,0,0,0,0
+Magallanes,12,Natales,23782,13,54.7,0,0,0,0,55
+Magallanes,12,Porvenir,7323,9,122.9,0,0,0,0,123
+Magallanes,12,Primavera,694,1,144.1,0,0,0,0,144
+Magallanes,12,Punta Arenas,141984,1024,721.2,38,26.8,38,26.8,721
+Magallanes,12,Río Verde,211,0,0,0,0,0,0,0
+Magallanes,12,San Gregorio,681,2,293.7,0,0,0,0,294
+Magallanes,12,Timaukel,282,0,0,0,0,0,0,0
+Magallanes,12,Torres del Paine,1021,0,0,0,0,0,0,0
